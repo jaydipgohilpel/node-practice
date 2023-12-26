@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+}
+.border{
+  border: 1px solid #cecece
+}
+.p-3{
+  padding: 16px;
+}
+.mw-mc{
+  max-width: max-content;
+}
+.d-flex{
+  display: flex;
+}
+.ai-c{
+  align-items: center;
+}
+.jc-b{
+  justify-content: space-between;
+}
+table{
+  border-collapse: collapse;
+  width: 100%;
+}
+th{
+  background-color: #ececec;
+}
+th, td{
+  padding: 10px;
+  border: 1px solid #cecece;
+}
